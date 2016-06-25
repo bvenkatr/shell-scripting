@@ -1,5 +1,7 @@
 #!/usr/bin/env bash
 
+#http://stackoverflow.com/questions/2500436/how-does-cat-eof-work-in-bash
+
 #This is how we can create functions in shell scripting
 function usage() {
     cat << MLS
